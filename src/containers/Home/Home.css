@@ -53,6 +53,11 @@ li:focus {
     font-size: 20px;
     color: rgba(255, 255, 255, 0);
   }
+  .slogan {
+    font: oblique bold 135% cursive;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
   .one {
     grid-column: 1;
     grid-row: 1 / 6;
