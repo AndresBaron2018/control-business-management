@@ -6,7 +6,7 @@ const OurServices = () => {
         <section className="content">
             <div className="scroll">
                 <h3 className="title">
-                    Gestion empresarial
+                    Servicios control y gestion empresarial
                 </h3>
                 <p className="paragraph">
                     •	Implementación de sistemas de gestión. <br />
