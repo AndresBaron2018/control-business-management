@@ -36,7 +36,7 @@ const Home = () => {
                             +57 313 848 4848
                         </div>
                     </div>
-                    <span className="text-logo" itemProp="addressLocality">Colombia, Bogota</span>
+                    <span className="location" itemProp="addressLocality">Colombia, Bogota</span>
                 </div>
                 <div className="body">
                     <div className="header">
