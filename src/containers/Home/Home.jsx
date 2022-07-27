@@ -16,7 +16,7 @@ const Home = () => {
                 <div className="one"></div>
                 <div className="logo">
                     <img src={logo} itemProp="image" alt="gestion empresarial" />
-                    <h1 className="slogan">Control y gestion empresarial</h1>
+                    <h1 className="slogan">Control y gestión empresarial</h1>
                 </div>
                 <h1 className="legend" >
                     Le ayudamos a desarrollar su potencial de manera sencilla, clara
