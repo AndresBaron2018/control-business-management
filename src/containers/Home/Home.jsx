@@ -22,13 +22,13 @@ const Home = () => {
                     Le ayudamos a desarrollar su potencial de manera sencilla, clara
                     y eficaz
                 </h1>
-                <div className="contact" itemscope itemtype="https://schema.org/Organization">
+                <div className="contact" itemScope itemType="https://schema.org/Organization">
                     <h1 className="title">Contactanos</h1>
                     <div>
                         <AiOutlineMail className="icons-deitails" />
-                        <spam className="text" itemProp="email">
+                        <span className="text" itemProp="email">
                             controlygestionempresarial<br />@gmail.com
-                        </spam>
+                        </span>
                     </div>
                     <div>
                         <BsTelephone className="icons-deitails" />
