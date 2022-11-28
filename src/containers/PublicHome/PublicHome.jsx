@@ -28,7 +28,7 @@ const PublicHome = () => {
                                 <div className="col-12">
                                     <nav className="navbar navbar-expand-lg navbar-light">
                                         <div className="container-fluid">
-                                            <a className="navbar-brand">
+                                            <a href="#top" className="navbar-brand">
                                                 <img src={Logo} className="company-logo" alt="Control Y Gestion Empresarial" />
                                             </a>
                                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
