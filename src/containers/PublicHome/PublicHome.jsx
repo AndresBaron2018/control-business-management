@@ -62,7 +62,7 @@ const PublicHome = () => {
                                             <div className="row">
                                                 <div className="col-lg-12">
                                                     <h2>C & G</h2>
-                                                    <h4>Control Y Gestion Empresarial</h4>
+                                                    <h4>Control Y Gestion Empresarial </h4>
                                                 </div>
                                             </div>
                                         </div>
